@@ -1,4 +1,4 @@
-## This repository contains links of my self-driven experimental machine learning projects, important articles and papers
+### This repository contains links of my self-driven experimental machine learning projects, important articles and papers
 * [Titanic Survival Prediction](https://github.com/KaziLamisa/Titanic-Survival-Prediction/tree/master) :
 This is the very first starting point for any data science novice. In this notebook I used python spark modules for data preprocessing and building machine learning pipeline. 
 Trained a logistic regression model with cross validation.
